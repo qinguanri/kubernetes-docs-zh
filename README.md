@@ -1,4 +1,5 @@
 kubernetes v1.1.8 官方文档汉化
+官网文档链接：http://kubernetes.io/v1.1/
 
 #目录
 
